@@ -1,1 +1,1 @@
-# -Smart-Traffic-Violation-Pattern-Detector
+# Smart-Traffic-Violation-Pattern-Detector
